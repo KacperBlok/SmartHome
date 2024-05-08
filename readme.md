@@ -41,21 +41,3 @@ The simple administrative panel provides an interface for managing the Raspberry
 
 *Kacper Blok* - *Project Manager and Lead Developer* 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Feel free to adjust any part of it according to your needs!
-
----
-
-Customize the license name and sections as needed. If you have any questions or suggestions, feel free to let me know!
