@@ -22,17 +22,17 @@ Prometheus is used for collecting data from various sources. Here, we use it to 
 
 The simple administrative panel provides an interface for managing the Raspberry Pi device and the connected lightbulb.
 
-###Portainer
+### Portainer
 
 Portainer is used for managing Docker containers, making it easier to deploy and manage our application components.
 
-###Zigbee Bulb Portal
+### Zigbee Bulb Portal
 
 The Zigbee bulb portal provides a user-friendly interface for controlling the connected lightbulb.
 
-###Livestream
+### Live stream
 
-The livestream feature allows us to capture images of the lightbulb in action, providing real-time feedback on its effects.
+The livestream feature, using ESP-CAM, allows us to capture images of the lightbulb in action, providing real-time feedback on its effects.
 
 ## Team member Tasks
 
