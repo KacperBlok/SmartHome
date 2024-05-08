@@ -8,13 +8,6 @@ https://www.youtube.com/watch?v=WXwqhYXXlN0
 
 This project from my part aims to connect a lightbulb to the network using a Raspberry Pi. Docker was used to build the environment, containing Grafana, Prometheus, and a simple administrative panel. The whole setup was deployed on a WAN network.
 
-
-### Accessing the Applications
-
-- **Grafana**: Grafana will be accessible at `http://Raspberry_Pi_IP_address:3000` (default login: admin/admin).
-- **Prometheus**: Prometheus interface will be available at `http://Raspberry_Pi_IP_address:9090`.
-- **Administrative Panel**: The simple administrative panel will be available at `http://Raspberry_Pi_IP_address:admin_panel_port`.
-
 ## Components Description
 
 ### Grafana
