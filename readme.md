@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=WXwqhYXXlN0
 
 ## Project Description
 
-This project from my part aims to connect a lightbulb to the network using a Raspberry Pi. Docker was used to build the environment, containing Grafana, Prometheus, and a simple administrative panel. The whole setup was deployed on a WAN network.
+My part of this project aimed to connect a lightbulb to the network using a Raspberry Pi. Docker was used to build the environment, containing Grafana, Prometheus, a simple administrative panel, Portainer for Docker management, a Zigbee bulb portal for controlling the lightbulb, and a livestream for observing the lightbulb's effects in real-time. Livestreaming allowed us to capture images of the lightbulb to see its effects live.
 
 ## Components Description
 
@@ -21,6 +21,20 @@ Prometheus is used for collecting data from various sources. Here, we use it to 
 ### Administrative Panel
 
 The simple administrative panel provides an interface for managing the Raspberry Pi device and the connected lightbulb.
+
+###Portainer
+
+Portainer is used for managing Docker containers, making it easier to deploy and manage our application components.
+
+###Zigbee Bulb Portal
+
+The Zigbee bulb portal provides a user-friendly interface for controlling the connected lightbulb.
+
+###Livestream
+
+The livestream feature allows us to capture images of the lightbulb in action, providing real-time feedback on its effects.
+
+## Team member Tasks
 
 *Team Member* - Building the system mockup, visualizing the layout and user interface.
 
