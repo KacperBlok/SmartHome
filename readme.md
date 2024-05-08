@@ -1,10 +1,8 @@
+# Smart Home project"
+
 ### My part of this project is shown in this video
 
 https://www.youtube.com/watch?v=WXwqhYXXlN0
-
-
-
-# Smart Home project"
 
 ## Project Description
 
